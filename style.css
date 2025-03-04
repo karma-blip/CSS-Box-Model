@@ -1,0 +1,15 @@
+.cointainer {
+              border:dotted blue 2px;
+              padding: 20px 100px;
+              margin: 20px;
+              width: 50%;
+              margin: 0% auto;
+              background-color: rgb(235, 235, 172);
+            }
+
+.inner-cointainer {
+                    border:solid red 2px ;
+                    padding:20px;
+                    margin: 5%;
+                    background-color: white;
+                  }  
